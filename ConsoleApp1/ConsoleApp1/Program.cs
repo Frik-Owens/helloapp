@@ -14,7 +14,7 @@ namespace ConsoleApp1
 
         static void greetWhite()
         {
-            Console.WriteLine("hello white");
+            Console.WriteLine("hello everyone");
         }
     }
 }
