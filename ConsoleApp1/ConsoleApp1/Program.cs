@@ -11,5 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
         }
+
+        static void greetWhite()
+        {
+            Console.WriteLine("hello white");
+        }
     }
 }
