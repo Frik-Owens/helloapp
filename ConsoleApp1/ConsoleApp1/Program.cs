@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello everyone");
+            greetWhite();
+            greetBlack();
         }
 
         static void greetWhite()
