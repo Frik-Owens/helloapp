@@ -10,11 +10,19 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello everyone");
+            greetWhite();
+            greetBlack();
         }
 
         static void greetWhite()
         {
             Console.WriteLine("hello everyone");
+        }
+
+        static void greetBlack()
+        {
+            Console.WriteLine("hello black");
         }
     }
 }
